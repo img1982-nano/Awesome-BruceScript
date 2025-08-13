@@ -9,9 +9,10 @@
 
 > [!WARNING]
 > This document was automatically generated using AI (ChatGPT). Contents are based on repository and file analysis.
-> This repository aggregates official and community-provided scripts for the Bruce JS Interpreter.
-> It includes a variety of applications, tools, games, and utilities that can be run on devices similar to the Flipper Zero.
-> Developers and users can use this list to learn, use, and develop new scripts.
+
+ This repository aggregates official and community-provided scripts for the Bruce JS Interpreter.
+ It includes a variety of applications, tools, games, and utilities that can be run on devices similar to the Flipper Zero.
+ Developers and users can use this list to learn, use, and develop new scripts.
 
 
 # Bruce JS Interpreter Script List
