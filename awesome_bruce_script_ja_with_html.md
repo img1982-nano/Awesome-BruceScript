@@ -1,33 +1,4 @@
-<!-- Awesome Bruce Script Header with Shark Background -->
-<div style="
-    background: linear-gradient(rgba(40,0,50,0.75), rgba(15,0,25,0.85)),
-                url('https://github.com/pr3y/Bruce/blob/main/media/pictures/bruce_hd.png?raw=true') no-repeat center center;
-    background-size: cover;
-    text-align: center;
-    padding: 80px 20px;
-    font-family: 'Segoe UI', Arial, sans-serif;
-    color: #fff;
-">
-    <h1 style="
-        font-size: 60px;
-        margin: 0;
-        letter-spacing: 3px;
-        text-shadow: 0 0 20px rgba(180,0,255,0.85);
-    ">
-        AWESOME <span style="color:#b000ff;">BRUCE</span> SCRIPT
-    </h1>
-    <p style="
-        font-size: 18px;
-        margin-top: 10px;
-        letter-spacing: 2px;
-        text-transform: uppercase;
-        color: rgba(255,230,255,0.9);
-        text-shadow: 0 0 12px rgba(140,0,200,0.9);
-    ">
-        The Ultimate Collection of Bruce Firmware Community Scripts
-    </p>
-</div>
-
+<a class="jsbin-embed" href="https://jsbin.com/pakebodaxe/embed?html,output">JS Bin on jsbin.com</a><script src="https://static.jsbin.com/js/embed.min.js?4.1.8"></script>
 
 **注意:** この文書はAI（ChatGPT）を用いて自動生成されました。内容はリポジトリとファイル解析結果に基づきます。
 このリポジトリは、Bruce JS Interpreter 向けに作成された公式およびコミュニティ提供のスクリプトを集約したものです。
