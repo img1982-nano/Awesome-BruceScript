@@ -1,33 +1,11 @@
-<!-- Awesome Bruce Script Header with Shark Background -->
-<div style="
-    background: linear-gradient(rgba(40,0,50,0.75), rgba(15,0,25,0.85)),
-                url('https://github.com/pr3y/Bruce/blob/main/media/pictures/bruce_hd.png?raw=true') no-repeat center center;
-    background-size: cover;
-    text-align: center;
-    padding: 80px 20px;
-    font-family: 'Segoe UI', Arial, sans-serif;
-    color: #fff;
-">
-    <h1 style="
-        font-size: 60px;
-        margin: 0;
-        letter-spacing: 3px;
-        text-shadow: 0 0 20px rgba(180,0,255,0.85);
-    ">
-        AWESOME <span style="color:#b000ff;">BRUCE</span> SCRIPT
-    </h1>
-    <p style="
-        font-size: 18px;
-        margin-top: 10px;
-        letter-spacing: 2px;
-        text-transform: uppercase;
-        color: rgba(255,230,255,0.9);
-        text-shadow: 0 0 12px rgba(140,0,200,0.9);
-    ">
-        The Ultimate Collection of Bruce Firmware Community Scripts
-    </p>
-</div>
+<img width="2827" height="548" alt="jsbin pakebodaxe 1 - 編集済み" src="https://github.com/user-attachments/assets/c087142d-06ea-4829-a812-cd7748c24df6" />
 
+---
+
+**言語 / Language**  
+[🇺🇸 EN](https://github.com/img1982-nano/Awesome-BruceScript/blob/main/README.md) | [🇯🇵 JP](https://github.com/img1982-nano/Awesome-BruceScript/blob/main/README_JP.md)
+
+---
 
 **Note:** This document was automatically generated using AI (ChatGPT). Contents are based on repository and file analysis.
 This repository aggregates official and community-provided scripts for the Bruce JS Interpreter.
