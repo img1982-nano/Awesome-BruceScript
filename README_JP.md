@@ -1,6 +1,6 @@
 <img width="2827" height="548" alt="jsbin pakebodaxe 1 - 編集済み" src="https://github.com/user-attachments/assets/c087142d-06ea-4829-a812-cd7748c24df6" />
 
-言語 / Language
+言語 / Language <br>
 [EN](https://github.com/img1982-nano/Awesome-BruceScript/blob/main/README.md)
 [JP](https://github.com/img1982-nano/Awesome-BruceScript/blob/main/README_JP.md)
 
