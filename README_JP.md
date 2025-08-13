@@ -1,10 +1,9 @@
 <img width="2827" height="548" alt="jsbin pakebodaxe 1 - 編集済み" src="https://github.com/user-attachments/assets/c087142d-06ea-4829-a812-cd7748c24df6" />
-<br>
+
 言語 / Language
 
 [EN](https://github.com/img1982-nano/Awesome-BruceScript/blob/main/README.md)
 [JP](https://github.com/img1982-nano/Awesome-BruceScript/blob/main/README_JP.md)
-<br>
 
 **注意:** この文書はAI（ChatGPT）を用いて自動生成されました。内容はリポジトリとファイル解析結果に基づきます。
 このリポジトリは、Bruce JS Interpreter 向けに作成された公式およびコミュニティ提供のスクリプトを集約したものです。
