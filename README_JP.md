@@ -36,3 +36,14 @@ Flipper Zero のようなデバイスで実行可能な多様なアプリやツ�
 ## コミュニティスクリプト（リンクなし）
 - M5stickcplus2_arcade-games.js — M5StickC Plus 2 向けの複数ミニゲーム集。
 - M5stickcplus2_calculator.js — M5StickC Plus 2 向け電卓。UI・操作がデバイス最適化。
+---
+
+## 貢献について / Contribution
+
+このリポジトリは誰でも自由に編集・改善できます。  
+新しいスクリプトの追加、説明文の改善、誤字脱字の修正など、あらゆる形での貢献を歓迎します。  
+
+Pull Requestを作成するか、Issueを通して提案してください。  
+一緒にAwesome-BruceScriptをより充実したものにしていきましょう！
+
+---
