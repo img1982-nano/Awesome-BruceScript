@@ -2,7 +2,7 @@
 <br>
 
 [EN](https://github.com/img1982-nano/Awesome-BruceScript/blob/main/README.md)
-[JP]((https://github.com/img1982-nano/Awesome-BruceScript/blob/main/README_JP.md)
+[JP](https://github.com/img1982-nano/Awesome-BruceScript/blob/main/README_JP.md)
 **注意:** この文書はAI（ChatGPT）を用いて自動生成されました。内容はリポジトリとファイル解析結果に基づきます。
 このリポジトリは、Bruce JS Interpreter 向けに作成された公式およびコミュニティ提供のスクリプトを集約したものです。
 Flipper Zero のようなデバイスで実行可能な多様なアプリやツール、ゲーム、ユーティリティを収録しています。
