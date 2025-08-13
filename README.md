@@ -36,3 +36,14 @@ Developers and users can use this list to learn, use, and develop new scripts.
 ## Community Scripts (No Link)
 - M5stickcplus2_arcade-games.js — Multiple mini-games pack for M5StickC Plus 2.
 - M5stickcplus2_calculator.js — Calculator for M5StickC Plus 2. UI and controls optimized for the device.
+---
+
+## Contribution
+
+This repository is open for anyone to edit and improve.  
+We welcome contributions in any form — adding new scripts, improving descriptions, fixing typos, and more.  
+
+Please create a Pull Request or make suggestions via Issues.  
+Let’s work together to make Awesome-BruceScript even better!
+
+---
