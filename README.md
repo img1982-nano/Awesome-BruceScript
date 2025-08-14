@@ -34,7 +34,7 @@
 - [space_shooter.js](https://github.com/pr3y/Bruce/tree/main/sd_files/interpreter/space_shooter.js) — Vertical scrolling shooter. Fire bullets from your ship to destroy enemies.
 - [tamagochi.js](https://github.com/pr3y/Bruce/tree/main/sd_files/interpreter/tamagochi.js) — Virtual pet. Manages hunger and mood, changes over time.
 - [wifi_brute.js](https://github.com/pr3y/Bruce/tree/main/sd_files/interpreter/wifi_brute.js) — Wi-Fi password brute-force tool. Selects SSID, then tries dictionary/random guesses.
-- [DOOM_3D.js](https://discord.com/channels/1264994142769909854/1397226052735991959) - Play DOOM in Bruce Firmware.
+- [DOOM_3D.js](https://discord.com/channels/1264994142769909854/1397226052735991959) - Play DOOM in Bruce Firmware.(Discord Only)
 
 ## Community Scripts (No Link)
 - M5stickcplus2_arcade-games.js — Multiple mini-games pack for M5StickC Plus 2.
