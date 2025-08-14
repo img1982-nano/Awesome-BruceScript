@@ -16,7 +16,7 @@
 
 
 # Bruce JS Interpreter Script List
-## Official Scripts
+## Community Scripts
 - [Example1.js](https://github.com/pr3y/Bruce/tree/main/sd_files/interpreter/Example1.js) — Basic example for the interpreter API. Covers screen display, dialogs, user input, and other core features.
 - [browser_bruce.js](https://github.com/pr3y/Bruce/tree/main/sd_files/interpreter/browser_bruce.js) — Simple HTTP viewer. After entering a URL, fetches HTTP responses and displays text/JSON. Requires network connectivity.
 - [calculator_t-embed.js](https://github.com/pr3y/Bruce/tree/main/sd_files/interpreter/calculator_t-embed.js) — Calculator tailored for T-Embed. Supports numeric input, basic arithmetic, and result display, optimized for T-Embed UI.
@@ -34,6 +34,7 @@
 - [space_shooter.js](https://github.com/pr3y/Bruce/tree/main/sd_files/interpreter/space_shooter.js) — Vertical scrolling shooter. Fire bullets from your ship to destroy enemies.
 - [tamagochi.js](https://github.com/pr3y/Bruce/tree/main/sd_files/interpreter/tamagochi.js) — Virtual pet. Manages hunger and mood, changes over time.
 - [wifi_brute.js](https://github.com/pr3y/Bruce/tree/main/sd_files/interpreter/wifi_brute.js) — Wi-Fi password brute-force tool. Selects SSID, then tries dictionary/random guesses.
+- [DOOM_3D.js](https://discord.com/channels/1264994142769909854/1397226052735991959) - Play DOOM in Bruce Firmware.
 
 ## Community Scripts (No Link)
 - M5stickcplus2_arcade-games.js — Multiple mini-games pack for M5StickC Plus 2.
